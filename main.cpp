@@ -1,8 +1,7 @@
 #include <iostream>
-#include "MatrixC.h"
-#include <cmath>
+#include "MatrixCalculator.h"
 
-// all The functions used are implemented to fit with any NxN Matrix (reusable)
+using namespace std;
 
 int main()
 {
@@ -90,5 +89,3 @@ int main()
         } while (Operation_Picker != 7);
 
 }
-
-
