@@ -4,14 +4,7 @@ This is a simple matrix calculator program that performs common matrix operation
 
 ## Getting Started
 
-To use the matrix calculator, you will need to compile the program using a C++ compiler such as `g++`. The program consists of three files: `matrixcalculator.h`, `matrixcalculator.cpp`, and `main.cpp`. 
-
-To compile the program, navigate to the directory containing the files and run the following command:
-
-g++ matrixcalculator.cpp main.cpp -o matrixcalculator
-
-
-This will compile the program and create an executable file called `matrixcalculator`. You can then run the program by typing `./matrixcalculator` in the terminal.
+To use the matrix calculator, you will need to run the batch file "Run_Program.bat" that will compile and run the code 
 
 ## Usage
 
