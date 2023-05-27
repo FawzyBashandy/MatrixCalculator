@@ -1,6 +1,6 @@
 # Matrix Calculator
 
-This is a simple matrix calculator program that performs common matrix operations such as addition, subtraction, multiplication, and division.
+This is a simple matrix calculator program that performs common matrix operations such as addition, subtraction, multiplication, division , and inverse of N*N matrix.
 
 ## Getting Started
 
